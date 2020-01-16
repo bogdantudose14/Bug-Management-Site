@@ -1,29 +1,7 @@
-# Team Name:
-
-Webosses
-
 # Project Topic:
 
 Bug tracking
 
-# Team Members:
-
-## Project Manager:
-
-Barbu Alexandra-Maria
-
-## Product Owner:
-
-Boangiu Alexandra-Mihaela
-
-## Design Developer:
-
-Bratu Andrei-Bogdan
-
-## Software Developer:
-
-Cornea Alexandru-Nicolae
-
-## Software Developer:
-
-Tudose Bogdan
+- "Npm i" command in both server and my-app folders
+- local IP needed in login.js; register.js; Main.js
+- "npm start" in "src" folder ("my-app") and in "server" folder
